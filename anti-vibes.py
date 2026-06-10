@@ -9,3 +9,4 @@ print("WOW ")
 
 a = input("Enter a number")
 b = {"Booting potatos1.0  ",  a }
+print(b)
